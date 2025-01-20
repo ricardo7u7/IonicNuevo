@@ -1,0 +1,34 @@
+{"data": [
+    {
+      "nombre": "Juan Pérez",
+      "edad": 30,
+      "nit": "123456789",
+      "direccion": "Calle 123, Ciudad, País"
+    },
+    {
+      "nombre": "Maria Gómez",
+      "edad": 45,
+      "nit": "987654321",
+      "direccion": "Avenida Central 456, Ciudad, País"
+    },
+    {
+      "nombre": "Carlos López",
+      "edad": 28,
+      "nit": "112233445",
+      "direccion": "Calle del Sol 789, Ciudad, País"
+    },
+    {
+      "nombre": "Ana Martínez",
+      "edad": 35,
+      "nit": "556677889",
+      "direccion": "Plaza Mayor 101, Ciudad, País"
+    },
+    {
+      "nombre": "Pedro Sánchez",
+      "edad": 40,
+      "nit": "223344556",
+      "direccion": "Carrera 10 202, Ciudad, País"
+    }
+  ]
+}
+  
